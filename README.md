@@ -5,4 +5,4 @@ Hi, I'am Sahil
 
 I am a Software Engineer skilled in Full Stack Development with LAMP & MEAN Stack.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilofficial671)](https://github.com/sahilofficial671/profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilofficial671&hide=java)](https://github.com/sahilofficial671/profile)
