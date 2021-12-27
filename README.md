@@ -14,7 +14,7 @@
 <br />
 I am Sahil a Software Engineer skilled in Full Stack Development with LAMP & MEAN Stack. I take great care in the experience, architecture, and code quality of the things I build. 
 
-[View Portfolio](https://www.webiggle.com/portfolio)
+[View Portfolio](https://sahilbhatia.me)
 
 <br />
 <br />
